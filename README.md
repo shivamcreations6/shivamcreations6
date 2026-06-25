@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shivam Ambilwade</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=600&lines=%24+Hi+there%2C+I'm+Shivam_">
+</p>
 
 <h3 align="center">
 Electronics & Computer Engineering Student | Embedded Systems | IoT | AI
