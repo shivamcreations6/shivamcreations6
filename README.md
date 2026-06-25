@@ -14,7 +14,7 @@ Electronics & Computer Engineering Student | Embedded Systems | IoT | AI
 - 💻 Passionate about Embedded Systems & IoT
 - 🤖 Learning AI on Edge Devices
 - 🌱 Currently learning STM32, ESP32 & TinyML
-- 📫 Reach me: youremail@gmail.com
+- 📫 Reach me: shivamcreations609@gmail.com
 
 ---
 
