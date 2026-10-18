@@ -8,8 +8,6 @@
 
 🔧 **What I do:** Embedded C/C++, ESP32, STM32, sensor interfacing, IoT, and Edge AI.
 
-🏆 **What I've achieved:** Winner of the Enduraverse Hackathon with *DreamVision — Smart Thermal Glasses*. Also participated in DIPEX.
-
 🚗 **My goal:** To become an Automotive Embedded Firmware Engineer, working on ECU software, EV technologies, and intelligent automotive systems.
 
 🛠️ **Currently exploring:** Automotive electronics, CAN communication, RTOS, and real-time embedded systems.
